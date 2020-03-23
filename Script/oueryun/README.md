@@ -59,4 +59,4 @@ hostname = ouers.co
      ```
 
 ## 感谢
-[@kai2ou](https://raw.githubusercontent.com/kai2ou/Script/master/QuantumultX/qiujiasu-DailyBonus/)
+[@kai2ou](https://github.com/kai2ou/Script/blob/master/QuantumultX/qiujiasu-DailyBonus/readme)
