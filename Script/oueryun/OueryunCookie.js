@@ -17,13 +17,13 @@ host-suffix, ouers.co, direct
 [rewrite_local]
 //偶尔云获取Cookie 登陆https://ouers.co/user后获取   成功后注释掉，Cookie失败后重新获取
 
-^https:\/\/ouers\.co\/user url script-request-header oueryunCookie.js
+^https:\/\/ouers\.co\/user url script-request-header OueryunCookie.js
 
 [mitm]
 ouers.co
 
 [task_local]
-0 0 * * * oueryun.js
+0 0 * * * Oueryun.js
 
 
 
