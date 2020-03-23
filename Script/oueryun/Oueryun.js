@@ -22,7 +22,7 @@ host-suffix, ouers.co, direct
 ouers.co
 
 [task_local]
-0 0 * * * oueryun.js
+0 0 * * * Oueryun.js
 
 */
 
