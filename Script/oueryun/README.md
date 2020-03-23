@@ -16,7 +16,7 @@ hostname = ouers.co
 ## 说明
 
 1. 配置`[MITM]`
-   - QuanX: 110.43.90.61, zt.wps.cn
+   - QuanX: ouers.co
 2. 再配置重写规则:
    - QuanX: 把`OueryunCookie.js`和`Oueryun.js`传到`On My iPhone - Quantumult X - Scripts` (传到 iCloud 相同目录也可, 注意要打开 quanx 的 iCloud 开关)
 3. 打开 APP , 进入签到页面, 系统提示: `获取Cookie: 成功 (APP)` (不用手动签到)
@@ -59,4 +59,4 @@ hostname = ouers.co
      ```
 
 ## 感谢
-[@kai2ou](https://raw.githubusercontent.com/kai2ou/Script/master/QuantumultX/qiujiasu-DailyBonus/readme)
+[@kai2ou](https://raw.githubusercontent.com/kai2ou/Script/master/QuantumultX/qiujiasu-DailyBonus/)
