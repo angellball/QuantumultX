@@ -1,3 +1,4 @@
+#srlink vpn 无限VIP时长
 var obj = JSON.parse($response.body);
 if ($request.url.match(/\/api\/user\/\.\*times=/g) != -1){
   obj.data["vipEndTime"] = "2099-03-25 19:08:50";
