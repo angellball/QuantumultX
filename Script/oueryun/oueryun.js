@@ -60,7 +60,7 @@ $task.fetch(Req).then(response => {
       $notify("偶尔云✈️", "重复签到", doc["msg"]);
     }
   } catch (error) {
-    $notify("偶尔云✈️", "失败", error);
+    $notify("偶尔云✈️", "失败\nhttps://ouers.co/user", error);
   }
 });
 
