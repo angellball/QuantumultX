@@ -1,6 +1,9 @@
 /*
 srlink vpn 无限VIP时长
 
+[rewrite_local]
+^http:\/\/abc\.vpncenters\.com\/api\/user url script-response-body angellball/Script/Crack/srlink.js
+
 [mitm]
 hostname = abc.vpncenters.com
 */
